@@ -1,0 +1,14 @@
+PS C:\Users\owner\git_challenge> git add hello_world.txt       
+PS C:\Users\owner\git_challenge> git commit -m "hello_world.txtを追記"
+[main 47f1dea] hello_world.txt繧定ｿｽ險        
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+PS C:\Users\owner\git_challenge> git add hello_world.txt
+PS C:\Users\owner\git_challenge> git commit -m "
+日本語訳を追記"
+[main 77407aa] 譌･譛ｬ隱櫁ｨｳ繧定ｿｽ險
+ 1 file changed, 1 insertion(+)    
+PS C:\Users\owner\git_challenge> git log --oneline
+77407aa (HEAD -> main) 日本語訳を追記
+47f1dea hello_world.txtを追記
+4766e1e 最初のコミット
+PS C:\Users\owner\git_challenge> 
